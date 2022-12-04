@@ -2,6 +2,7 @@
   arcade-joystick
 
   Simple joystick routine for video pinball cabinet. 
+  Uses https://github.com/MHeironimus/ArduinoJoystickLibrary
   
 */
 
